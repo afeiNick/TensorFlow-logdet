@@ -1,5 +1,5 @@
 # TensorFlow-logdet
-batched logdet GPU op for tensorflow
+batched log determinant (logdet) GPU op for tensorflow
 
 The following bash commands have been used to compile the op on a Linux machine:
 
